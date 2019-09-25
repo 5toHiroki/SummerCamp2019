@@ -1,0 +1,27 @@
+#テーマ設定
+theme : black
+#sky 
+
+#ロゴアイコン設定
+#logo : logo.png
+
+#フットノート設定
+footnote : "2019 sozolab.jp"
+
+#スライドのページ数表示設定
+slide-number: true
+
+#コードのシンタックスハイライト設定
+highlitght : monokai
+
+#スライド自動再生の設定
+autoslide : 5000
+
+#スライドのループ設定
+loop : true
+
+#トランジションの設定
+transition : fade
+
+#チャート/グラフ機能の設定
+charts : true
